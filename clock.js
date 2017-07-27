@@ -13,3 +13,5 @@ else{
 }
 }
 clock("08:45:00AM");
+
+//test with 12:45:00AM
