@@ -2,7 +2,6 @@
 
 1)Fork this project. 2)Write the solution in your fav editor 3)Push the answer to your Github
 
-
 Given a time in -hour AM/PM format, convert it to military (-hour) time.
 
 Note: Midnight is  on a -hour clock, and  on a -hour clock. Noon is  on a -hour clock, and  on a -hour clock.
